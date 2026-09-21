@@ -1,6 +1,18 @@
 # FDE 现场工程手册
 
+<table>
+  <tr>
+    <td align="center"><strong>Dashen.Wang</strong><br><img src="assets/qr-dashen-wang.jpg" alt="Dashen.Wang 微信二维码" width="180"><br><a href="https://x.com/dashen_wang">X：@dashen_wang</a></td>
+    <td align="center"><strong>黄小木 · Jayce Huang</strong><br><img src="assets/qr-jayce-huang.jpg" alt="Jayce Huang 微信二维码" width="180"><br><a href="https://x.com/ai_xiaomu">X：@ai_xiaomu</a></td>
+    <td align="center"><strong>Roland Wayne</strong><br><img src="assets/qr-roland-wayne.jpg" alt="Roland Wayne 微信二维码" width="180"><br><a href="https://x.com/rwayne">X：@rwayne</a></td>
+  </tr>
+</table>
+
+<p align="center">扫描二维码添加微信，也可以通过 X 账号关注作者。</p>
+
 这是一套面向企业人工智能部署与现场交付的 FDE（Forward Deployed Engineer，前线部署工程师）工作手册，内容覆盖现场调查、问题定义、生产部署、验证交接、人机分工、硬件接入、项目案例和组织治理。
+
+PDF 版：[前线部署工程师_FDE 工作手册](pdf/前线部署工程师_FDE工作手册.pdf)
 
 ## 内容目录
 
@@ -30,18 +42,6 @@ OpenTSC 共创者，在 X 平台使用“AI 最严厉的父亲”这一名称，
 ### Roland Wayne
 
 澳大利亚昆士兰大学医学院全额奖学金博士生，创业者、开源主义者，全网超 6 万粉丝自媒体博主，医学、经济学、人工智能领域一线研究人员。其工作集中在企业 AI 转型、Agent 工作流、本地模型部署、知识系统和 AI 教育应用。
-
-## 关注作者
-
-扫描二维码添加微信，也可以通过 X 账号关注作者。
-
-<table>
-  <tr>
-    <td align="center"><strong>Dashen.Wang</strong><br><img src="assets/qr-dashen-wang.jpg" alt="Dashen.Wang 微信二维码" width="180"><br><a href="https://x.com/dashen_wang">X：@dashen_wang</a></td>
-    <td align="center"><strong>黄小木 · Jayce Huang</strong><br><img src="assets/qr-jayce-huang.jpg" alt="Jayce Huang 微信二维码" width="180"><br><a href="https://x.com/ai_xiaomu">X：@ai_xiaomu</a></td>
-    <td align="center"><strong>Roland Wayne</strong><br><img src="assets/qr-roland-wayne.jpg" alt="Roland Wayne 微信二维码" width="180"><br><a href="https://x.com/rwayne">X：@rwayne</a></td>
-  </tr>
-</table>
 
 ## 使用与授权协议
 
